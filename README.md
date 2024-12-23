@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandar Gjorgev
+- 👋 Hi, I’m Aleksandar Gjorgev, aleksandar-gjorgev.com
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Next.js, React.js
 - 📫 How to reach me: gjorgevaleks@gmail.com
